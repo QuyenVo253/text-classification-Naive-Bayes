@@ -1,0 +1,4 @@
+gdown
+pandas
+nltk
+scikit-learn
